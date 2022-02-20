@@ -1,5 +1,6 @@
 # Project-wide
 *.DS_Store
+UIKit/Todoey-iOS13/Pods
 
 # Xcode
 #
